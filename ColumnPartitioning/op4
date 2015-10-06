@@ -1,0 +1,52 @@
+0 => NZ = 400
+1 => NZ = 400
+2 => NZ = 400
+3 => NZ = 400
+seed[0]: 1
+seed[1]: 18
+seed[2]: 37
+seed[3]: 3
+
+Seeds:
+hashtable row: 0, count: 1
+1  ==>  
+***
+hashtable row: 1, count: 1
+18  ==>  
+***
+hashtable row: 2, count: 1
+37  ==>  
+***
+hashtable row: 3, count: 1
+3  ==>  
+***
+--------------------
+hashtable row: 0, count: 7
+1  ==>  0  ==>  6  ==>  7  ==>  8  ==>  9  ==>  10  ==>  
+***
+hashtable row: 1, count: 12
+18  ==>  12  ==>  16  ==>  22  ==>  23  ==>  41  ==>  42  ==>  43  ==>  44  ==>  45  ==>  46  ==>  47  ==>  
+***
+hashtable row: 2, count: 9
+37  ==>  11  ==>  13  ==>  14  ==>  15  ==>  17  ==>  19  ==>  20  ==>  21  ==>  
+***
+hashtable row: 3, count: 20
+3  ==>  2  ==>  4  ==>  5  ==>  24  ==>  25  ==>  26  ==>  27  ==>  28  ==>  29  ==>  30  ==>  31  ==>  32  ==>  33  ==>  34  ==>  35  ==>  36  ==>  38  ==>  39  ==>  40  ==>  
+***
+--------------------
+Rank 0 recvd 7 columns
+Rank 2 recvd 9 columns
+Rank 3 recvd 20 columns
+Rank 1 recvd 12 columns
+Rank 0 got 7 rows of Y vector
+Rank 1 got 14 rows of Y vector
+Rank 2 got 9 rows of Y vector
+Rank 3 got 18 rows of Y vector
+
+rank = 0, Time taken: 0.180000
+
+
+rank = 3, Time taken: 0.180000
+rank = 2, Time taken: 0.180000
+
+rank = 1, Time taken: 0.180000
